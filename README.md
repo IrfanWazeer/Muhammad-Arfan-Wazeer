@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Muhammad Arfan Wazeer
-### 🎯  QA Engineer | 🧪 Functional & UI Testing | 📋 Test Design Expert
+### 🎯  AI Engineer | ML Engineering | Building Intelligent AI Agents | Open to Remote Opportunities
 
 - 📍 From Kamir, Punjab (Pakistan)
 - 👨‍🎓 PhD Scholar in Computer Science
